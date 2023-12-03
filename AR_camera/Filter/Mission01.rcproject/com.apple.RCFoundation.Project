@@ -1,0 +1,165 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.9501571655273438
+              ],
+              "identifier" : "F9610871-0955-494F-A5C3-51D1A281BAB3",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "0BCDAA08-A218-416A-B1FF-C6FE4760A1A9" : null,
+                  "4A213441-135C-450E-8EF8-1A4EAB267C1D" : null,
+                  "4D47420D-CDE9-4EFA-9861-30DD381C27B9" : null,
+                  "5D737150-0F37-436E-90E0-00F1E6BFCD6C" : null,
+                  "7F5F1ADC-E5E4-4EF5-A5B5-FC43B071FFA5" : null,
+                  "59C40B56-4C33-4973-9F6C-0BBB25F526E8" : null,
+                  "097E50F5-7DA1-4E94-9084-1EC962C3667D" : null,
+                  "632E476F-1E55-4E30-9723-1C51DD2E8B89" : null,
+                  "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null,
+                  "B34623A7-FAB3-46CC-80A0-EE225B7D2602" : null,
+                  "B41294FC-C0FC-4F28-8D6D-EB69B8771AF5" : null,
+                  "BEFFD8F5-269E-4914-BACB-F887B94C0BBA" : null,
+                  "DD5450D9-B4FA-44DC-A2A3-F49C2CFD1FA9" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:34cb5ed62ef3b0022bdffa4b04d4b218\/Filter%20Missions-01.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "DBCFC91F-008E-48D5-AD4D-1DD67ABF4BE4"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.4813648462295532,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1.4813648462295532,
+                        7.7955850596393012e-14,
+                        0,
+                        0,
+                        -7.7955850596393012e-14,
+                        1.4813648462295532,
+                        0,
+                        0.017584161832928658,
+                        0.00087999709649011493,
+                        -0.0046461783349514008,
+                        1
+                      ]
+                    }
+                  }
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Box",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99995142221450806,
+                  2.5040403084375384e-09,
+                  0.0098623912781476974,
+                  0,
+                  0.00088195054559037089,
+                  0.99599385261535645,
+                  -0.089417845010757446,
+                  0,
+                  -0.0098228929564356804,
+                  0.089422129094600677,
+                  0.99594539403915405,
+                  0,
+                  -0.002666824497282505,
+                  0.10935962200164795,
+                  0.92322611808776855,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}

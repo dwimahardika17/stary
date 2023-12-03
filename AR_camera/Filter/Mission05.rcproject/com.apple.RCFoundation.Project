@@ -1,0 +1,154 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "68B0AA65-0C54-40BC-92D4-58EB09BFDE2D",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "4846F7E9-B06F-4A2B-94C4-019E509038CA" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:4a422556b12abe171238aef671c8f7b7\/Filter%20Missions-05.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.59399999999999997
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "22B0F2D1-B772-406F-ACA0-4CFD5C77CD11"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.6085678339004517,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1.6085678339004517,
+                        3.1966945502346147e-14,
+                        0,
+                        0,
+                        -3.1966945502346147e-14,
+                        1.6085678339004517,
+                        0,
+                        0.011863503605127335,
+                        0.00091421499382704496,
+                        0.072899393737316132,
+                        1
+                      ]
+                    }
+                  },
+                  "BB61336E-0297-48F3-82AD-1C183AD58CFC" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Skenario",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99901175498962402,
+                  -1.4974345319274107e-08,
+                  -0.04444616287946701,
+                  0,
+                  -0.0045067672617733479,
+                  0.9948459267616272,
+                  -0.10129854083061218,
+                  0,
+                  0.044217091053724289,
+                  0.10139881819486618,
+                  0.99386274814605713,
+                  0,
+                  0.21675674617290497,
+                  0.34772229194641113,
+                  1.3057920932769775,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
